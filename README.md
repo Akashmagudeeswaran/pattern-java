@@ -7,6 +7,7 @@ This repository contains different types of pattern programs written in Java.
 - Number Patterns
 - Pyramid Patterns
 - Diamond Patterns
+- Square Patterns
 
 ## Technologies Used
 - Java
