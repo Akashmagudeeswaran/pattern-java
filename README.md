@@ -11,10 +11,10 @@ This repository contains different types of pattern programs written in Java.
 
 ## Technologies Used
 - Java
-- VS Code / IntelliJ
+- VS Code 
 
 ## Purpose
 This project is created for practicing loops and logic building in Java.
 
 ## Author
-Akash
+Akashmagudeeswaran
