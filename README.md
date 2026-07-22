@@ -15,18 +15,6 @@ A collection of Java pattern programs created using **Java** in **Visual Studio 
 - Java
 - Visual Studio Code
 
-## ▶️ How to Run
-
-1. Open the project in **VS Code**.
-2. Compile the Java file:
-   ```bash
-   javac FileName.java
-   ```
-3. Run the program:
-   ```bash
-   java FileName
-   ```
-
 ## 🎯 Concepts Covered
 
 - Nested Loops
