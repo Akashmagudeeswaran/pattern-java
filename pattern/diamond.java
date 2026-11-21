@@ -20,5 +20,5 @@ public class diamond {
             }
             System.out.println();
         }
-    }
+    } 
 }
